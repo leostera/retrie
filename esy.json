@@ -1,0 +1,21 @@
+{
+  "name": "retrie",
+  "version": "0.1.0",
+  "description": "Quick and Dirty TRIEs in Reason",
+  "author": "Leandro Ostera <leandro@ostera.io>",
+  "repository": "git+https://github.com/ostera/retrie",
+  "dependencies": {
+    "@esy-ocaml/reason": "^3.4.0",
+    "@opam/dune": "*",
+    "@opam/ppx_sexp_conv": "v0.12.0",
+    "@opam/sexplib": "v0.12.0",
+    "@opam/utop": "2.3.0",
+    "ocaml": " >= 4.3.0"
+  },
+  "devDependencies": {
+    "@opam/alcotest": "*",
+    "@opam/hex": "*",
+    "@opam/merlin": "*"
+  },
+  "resolutions": {}
+}
